@@ -1,0 +1,180 @@
+body{
+   background-color: hsl(185, 41%, 84%);
+}
+
+.attribution { font-size: 11px; text-align: center; 
+}
+    /* .attribution a { color: hsl(228, 45%, 44%); 
+    } */
+
+.footer{
+    margin-top: 500px;
+}
+
+.splitter{
+    justify-content: center;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.mainDiv{  
+    width: 550px; 
+    height: 300px;
+    position: absolute; 
+    border: 2px;
+    border-radius: 20px;
+    background-color:  hsl(0, 0%, 100%);
+margin-left: 348px;
+margin-top: 40px;
+display: flex;
+
+}
+
+.lContainer{
+position: relative;
+margin:20px 20px 20px 20px;
+justify-content: center;
+text-align: center;
+
+}
+ .rContainer{
+position: relative;
+border: 2px;
+border-radius: 20px;
+background-color:  hsl(183, 100%, 15%);
+height: 260px;
+width:300px;
+margin:20px 10px 20px 10px;
+
+ }
+
+ 
+
+ /* .first{
+    
+ }
+
+ .second{
+    
+ } */
+  
+ .bill{
+margin-left: -145px;
+margin-bottom: 5px;
+ } 
+.select{
+    margin-left: -100px;
+    margin-bottom: 5px;
+}
+.numberOfPeople{
+    margin-left: -53px;  
+    margin-bottom: 5px;
+}
+#five{
+    background-color:  hsl(183, 100%, 15%);
+    border-radius: 2px;
+    border:none;
+margin: 2px 2px 2px 2px;
+width: 55px;
+height: 23px;
+color: hsl(0, 0%, 100%);
+
+}
+#ten{
+    background-color:  hsl(183, 100%, 15%);
+    border-radius: 2px;
+    border:none;
+    width: 55px;
+height: 23px;
+margin: 2px 2px 2px 2px;
+color: hsl(0, 0%, 100%);
+}
+#fifteen{
+background-color: hsl(172, 67%, 45%);
+border-radius: 2px;
+border:none;
+width: 55px;
+height: 23px;
+margin: 2px 2px 2px 2px;
+}
+#twentyFive{
+    background-color:  hsl(183, 100%, 15%);
+    border-radius: 2px;
+    border:none;
+    width: 55px;
+height: 23px;
+margin: 2px 2px 2px 2px;
+color: hsl(0, 0%, 100%);
+}
+#fifty{
+    background-color:  hsl(183, 100%, 15%);
+    border-radius: 2px;
+    border:none;
+    width: 55px;
+height: 23px;
+margin: 2px 2px 2px 2px;
+color: hsl(0, 0%, 100%);
+
+}
+#custom{
+color:hsl(183, 100%, 15%) ;
+border-radius: 2px;
+border:none;
+width: 55px;
+height: 23px;
+margin: 2px 2px 2px 2px;
+}
+#resetBtn{
+    background-color:hsl(172, 67%, 45%);
+    border: none;
+    width: 200px;
+    height: 28px;
+    border-radius: 2px;
+    justify-content: center;
+    text-align: center;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+#tipAmount{
+margin-left: 20px;
+margin-bottom: 2px;
+}
+#total{
+    margin-left: 20px;
+    margin-bottom: 2px;
+}
+#perPerson{
+    color:hsl(172, 67%, 45%);
+    margin-left: 20px;
+    margin-top: 0px;
+    
+}
+#perPerson1{
+    color:hsl(172, 67%, 45%);
+    margin-left: 20px;
+    margin-top: 0px;
+  
+}
+#tipResult{
+color:hsl(172, 67%, 45%);
+padding: 0px 0px 0px 0px;
+margin-bottom: px;
+margin: 30px 2px 20px 120px;
+
+ 
+
+}
+#totalResult{
+color: hsl(172, 67%, 45%);
+padding: 0px 0px 0px 0px;
+margin: 20px 20px 20px 145px;
+
+
+}
+#resultt{
+    display: flex;
+}
+
+#resultt1{
+display: flex;
+}
